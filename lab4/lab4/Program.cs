@@ -14,6 +14,7 @@ namespace lab4
         [STAThread]
         static void Main()
         { //update
+            //update lan 2
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
