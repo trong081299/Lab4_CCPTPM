@@ -13,7 +13,7 @@ namespace lab4
         /// </summary>
         [STAThread]
         static void Main()
-        {
+        { //update
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
